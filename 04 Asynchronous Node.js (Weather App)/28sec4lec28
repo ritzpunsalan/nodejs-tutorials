@@ -1,0 +1,23 @@
+Callback Functions & APIs
+
+timers:  
+timer check: 11:58 
+
+shortcut commands:
+
+    node playground/28callbacks.js
+    npm init                        (press enter and use all the defaults)
+    npm install request@2.73.0 --save
+    node 28applec28.js
+    
+chrome browser:
+
+    https://maps.googleapis.com/maps/api/geocode/json?
+    https://maps.googleapis.com/maps/api/geocode/json?key=value&keytwo=valuetwo
+    https://maps.googleapis.com/maps/api/geocode/json?address=1301 lombard street philadelphia
+    https://npmjs.com/package/request
+    http://links.mead.io/api-fix
+    
+chrome addon:
+    
+    json viewer

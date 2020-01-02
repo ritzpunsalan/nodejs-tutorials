@@ -1,0 +1,10 @@
+Adding and saving Notes
+
+timer: 
+
+type in node.js cmd:
+
+    node 16applec16.js add --title=secret --body="Some body here"
+    node 16applec16.js add --title=secret2 --body="Some body here"
+
+search

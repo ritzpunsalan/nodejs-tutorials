@@ -1,0 +1,17 @@
+Callback Errors
+
+timers:  
+timer check:  4:05
+
+shortcut commands:
+
+    node 32applec32.js -a 00000
+    node 32applec32.js -a 000000
+    node 32applec32.js -a 08822
+
+
+chrome browzer:
+    
+    https://maps.googleapis.com/maps/api/geocode/json?address=00000
+    https://maps.googleapis.com/maps/api/geocode/json?address=19147
+

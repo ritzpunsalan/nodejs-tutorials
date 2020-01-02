@@ -1,0 +1,13 @@
+Create a web server
+timers:  
+timer check:  
+
+shortcut commands:
+
+    nodemon 42server.js
+    
+chrome browzer:
+
+    localhost:3000
+    localhost:3000/42help.html
+    

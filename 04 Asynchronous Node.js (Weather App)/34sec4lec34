@@ -1,0 +1,27 @@
+Wiring up Weather Search
+timers:  
+timer check:  
+
+shortcut commands:
+
+
+    node 34applec34.js -a 19146
+    node 34applec34.js -a 75486
+    
+    
+chrome browzer:
+
+
+    forcast.io
+    aka    https://darksky.net/forecast/40.7127,-74.0059/us12/en
+    
+    secret api key
+    e4bb227a733194ebf66916c3bf3dfdfe
+    
+    forecast request
+    https://api.darksky.net/forecast/[key]/[latitude],[longitude]
+    
+    sample:
+    https://api.darksky.net/forecast/e4bb227a733194ebf66916c3bf3dfdfe/33.7723912,-95.7932008
+    
+

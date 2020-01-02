@@ -1,0 +1,16 @@
+Async Basics
+
+timers:  
+timer check: 
+
+shortcut commands:
+
+    cd (name of folder)                 changing directory
+    dir                                 view directory
+    cd ..                               to go backwards in directory
+    d:                                  change into any drive. not just d drive. it can also be j drive by typing " j: "
+    
+    mkdir weather-app                   make directory of weather-app
+    cd weather-app                      change directory to weather-app
+    clear                               clear what is in node.js cmd
+    node playground/26async-basics.js

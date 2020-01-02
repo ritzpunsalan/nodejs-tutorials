@@ -1,0 +1,26 @@
+Adding Version Control(Git)
+timers:  
+timer check:  
+
+shortcut commands:
+
+    git --Version
+    git Init 
+    ls -a 
+    git status
+    git add package.json
+    git add public/
+    git add views/
+    git commit -m "Initial commit"
+
+      
+chrome browzer:
+
+    git-scm.com
+        free book inside the site. "Pro Git"
+        for windows, check mark all of these:
+            Windows Explorer Integration
+                Git Bash Here
+                Git GUI Here
+            Associate .git* configuration files with the default text editor
+            Associate .sh files to be run with Bash

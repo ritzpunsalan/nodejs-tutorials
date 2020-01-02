@@ -1,0 +1,16 @@
+Weather App With Promises
+timers:  
+timer check:  9.37
+
+shortcut commands:
+
+    npm install axios --save
+    node 38app-promise.js -a '1301 lombard street philadelphia'
+    node 38app-promise.js -a 08822
+    node 38app-promise.js -a 000000
+    node 38app-promise.js -a 19146
+    
+chrome browzer:
+
+    npm axios
+    

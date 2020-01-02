@@ -1,0 +1,27 @@
+Section intro
+
+timers:  
+timer check: 
+
+shortcut commands:
+
+    cd (name of folder)                 changing directory
+    dir                                 view directory
+    cd ..                               to go backwards in directory
+    d:                                  change into any drive. not just d drive. it can also be j drive by typing " j: "
+    
+search box in windows program:
+
+	regedit
+    run
+        regedit
+
+registry editor:
+    
+        hkey_current_user / software / microsoft / command processor  ::
+        
+        auto
+        
+        at this point, copy and paste directory to where you want it to go.
+
+    

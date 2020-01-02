@@ -1,0 +1,6 @@
+why should i use node?
+
+type:
+    node                                (open node.js)
+    node (< blocking.js >)              (opens file name such as blocking.js ) 
+    node non-blocking.js                (^^ samething as top but looks like this ^^)

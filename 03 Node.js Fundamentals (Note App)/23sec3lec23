@@ -1,0 +1,25 @@
+Requiring Arguments and Advanced Yargs
+
+timers:  
+timer check: 7:39 min
+
+shortcut commands:
+
+    node 23applec23.js --help
+    node 23applec23.js add --help
+    node 23applec23.js add -t="flag title" --body="body"
+    node 23applec23.js add -t=t -b=b
+    node 23applec23.js list
+    node 23applec23.js remove
+    node 23applec23.js remove -t="t"
+    node 23applec23.js remove --title="flag title"
+    
+    
+    google search:
+    yargs npm
+    
+    
+    the whole script written in lec does not work. please search for a better viable way.
+    *** fixed the problem. just a minor error creating a huge pain of wasting time. 
+    .help() was the solution instead of .help only.
+    

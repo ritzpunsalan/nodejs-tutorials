@@ -1,0 +1,25 @@
+Debugging Node.js Applications
+
+timer: 6:40
+
+type in node.js cmd:
+
+    node playground/debugging.js                                ((playground/) is a folder and (debugging) is the file. when combined with a / , the file can be activated in node.) 
+    node inspect playground/debugging.js                        (inspect is the active debug cmd.)
+    
+    debug> list(10)                                             (list the number of lines)
+    n                                                           (very next statement)
+    c                                                           (to continue)
+    ^c                                                          (ctrl + c twice shuts down debugger)
+    repl                                                        (read-eval-print-loop. quick and easy way to test simple node.js)
+    person.age                                                  (under person. dot only gets the second in line. which is age)
+    person.age + 100                                            (adds a 100 to age number.)
+    person.age = 100                                            (age will equal to 100.)
+    clear                                                       (wipes the page off. clean and clear.)
+    node inspect 20applec20.js read --title="to buy"
+    nodemon inspect 20applec20.js read --title="to buy"
+    
+search
+
+note:
+    the commands did work properly.

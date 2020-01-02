@@ -1,0 +1,11 @@
+Refactoring for Reusability
+
+timer: 6:42
+
+type in node.js cmd:
+
+    node 17applec17.js add --title="to buy" --body="food"
+    node 17applec17.js add --title="to buy from store" --body="food"
+    
+
+search

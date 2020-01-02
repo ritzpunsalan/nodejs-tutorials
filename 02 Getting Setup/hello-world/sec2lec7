@@ -1,0 +1,12 @@
+Hello World!
+
+type:
+    pwd                                 (for linux)
+    dir                                 (for windows. directory)
+    cd (< desktop >)                    (to navigate to desktop)
+    cd (< /Users/Andrew/desktop >)      (nav anywhere on the desktop)
+    cd (< hello-word$ >)                (from desktop)
+    ~ ls                                (what is inside the folder)
+    node (< app.js >)                   (will run in node. app.js)
+    cd ..                               (lets you move backwards in directory)
+    d: or h: or etc...                  (once at c: root directory type that to change into another root driver)    

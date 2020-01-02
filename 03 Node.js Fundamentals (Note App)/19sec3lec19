@@ -1,0 +1,14 @@
+Reading Notes and Reusablility
+
+timer: 6:40
+
+type in node.js cmd:
+
+    node 19applec19.js read --title="something here"
+    node 19applec19.js read --title="to buy"
+    node 19applec19.js add --title="things to do" --body="go to post office"
+
+search
+
+note:
+    the commands did work properly.

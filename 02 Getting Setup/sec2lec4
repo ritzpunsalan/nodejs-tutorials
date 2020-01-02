@@ -1,0 +1,12 @@
+what is node?
+
+type down in node.js cmd
+    node -v                                     (node version)
+    node                                        (opening to node.js)
+    console.log('Hello world');                 (print hello world to the screen)
+    window                                      (chrome v8 console)
+    global                                      (^ in node.js. pathing and cmds for node.js. just like "window" ^)
+    #document                                   (chrome v8 console)
+    process                                     (^ in node.js. pathing and cmds for node.js. just like "#document" ^)
+    process.exit(0)                             (exit cmd prompt with zero error)
+    ctl + C twice                               (to exit, press ^C again or type .exit)

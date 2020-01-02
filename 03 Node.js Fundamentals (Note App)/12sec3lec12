@@ -1,0 +1,10 @@
+Restarting app with Nodemon
+
+type in node.js cmd:
+  
+- searches
+    npmjs.com
+    -s: nodemon                              (responsible for overseeing changes)
+    
+    npm install nodemon -g                   (installed in global. in the terminal)
+    ctl + c                                  (shuts down nodemon)

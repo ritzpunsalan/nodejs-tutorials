@@ -1,0 +1,20 @@
+Encoding User Input
+
+timers:  
+timer check:  
+
+shortcut commands:
+
+    npm install yargs --save
+    node 31applec31.js --address '1301 lombard street'
+    node 31applec31.js --help
+    node 31applec31.js -h
+    node 31applec31.js -a '1301 lombard street'
+    clear                                                   does not work
+    node
+>   encodeURIComponent('1301 lombard street philadelphia')
+>   decodeURIComponent('Ritz%20Punsalan')
+    ctrl + c (twice)
+    clear                                                   does not work
+    node 31applec31.js -a '1614 south broad street philadelphia'
+    node 31applec31.js -a 'torrance ca'

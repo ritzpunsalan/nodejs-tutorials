@@ -1,0 +1,44 @@
+Setting up GitHub & SSH Keys
+timers:  
+timer check:  
+
+shortcut commands:
+
+    git init                    gets you into bash
+    ls -a                       gives a list
+    
+      
+chrome browzer:
+
+    GitHub ssh Keys
+        generating an ssh key - user documentation
+            click on " ssh "
+    Adding a new SSH key to your github account
+        clip < ~/.ssh/id_rsa.pub
+
+gitbash: 
+
+    ls -al ~/.ssh
+    ssh-keygen -t rsa -b 4096 -C 'ritzpunsalan@gmail.com'
+    eval "$(ssh-agent -s)"
+    ssh-add ~/.ssh/id_rsa
+    ssh -T git@github.com
+        hit yes
+    - paste first option-
+    - paste second option-
+
+github site:
+
+    settings / ssh and gpg keys
+        ssh keys
+            use a special code for windows
+                (should be able to copy codes, not in the gitbash.)
+            in gitbash
+        paste the code onto github. 
+            click add ssh key.
+    new repository button
+        repository name: " node-course-2-webserver "
+            copy within middle option
+                ...or push an existing repository from the command line
+                    - copy first option -
+                    - copy second option -

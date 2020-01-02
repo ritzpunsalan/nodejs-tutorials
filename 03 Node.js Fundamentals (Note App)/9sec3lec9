@@ -1,0 +1,18 @@
+Using Require
+
+types: 
+    mkdir (< blah >)              (make folders)
+    
+app.js gone wrong
+// Orignal line
+fs.appendFile('greetings.text', 'Hello world!');
+
+// Option one                                                       (with error sign)
+fs.appendFile('greetings.txt', 'Hello world!', function (err) {
+    if (err) {
+        console.log('Unable to write to file');
+    }
+});
+
+// Option two                                                       (without error sign)
+fs.appendFileSync('greetings.txt', 'Hello world!');                 

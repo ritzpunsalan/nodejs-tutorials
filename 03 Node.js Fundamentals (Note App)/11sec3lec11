@@ -1,0 +1,14 @@
+Using 3rd Party Modules
+
+type in node.js cmd:
+
+    npm - v                                 (to find npm version)
+    npm init                                (survey projects)
+    ctl + c  ---> ^C                        (to quit)
+    
+- searches
+    npmjs.com
+    -s: lodash                              (makes dev node.js & js hella easier)
+    
+    node install (< lodash >) --save        (install and saves to update)
+    node install                            (once the package has been installed and deleted. can be reinstalled.)

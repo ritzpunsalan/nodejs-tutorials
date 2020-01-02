@@ -1,0 +1,11 @@
+Getting Input From User
+
+timer: 8:45
+
+type in node.js cmd:
+
+    node (< blah.js >) list                         (for listing a js)
+    node (< blah.js >) add                          (for adding a js)
+    node (< blah.js >) remove                       (for removing a js)
+    node (< blah.js >) remove --title="secrets 2"   (quotes only work on windows)
+    node (< blah.js >) remove --title "secrets 2"   ( ^ works the same way as top except title and secrets are on seperate lines)

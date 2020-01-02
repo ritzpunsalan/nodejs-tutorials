@@ -1,0 +1,17 @@
+Hello Express
+timers:  
+timer check:  
+
+shortcut commands:
+
+    npm init
+    npm install express --save
+    nodemon 41server.js
+    
+chrome browzer:
+
+    expressjs.com
+    localhost:3000
+    localhost:3000/about
+    localhost:3000/bad
+    

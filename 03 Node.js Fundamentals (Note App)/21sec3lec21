@@ -1,0 +1,45 @@
+Debugging via Chrome Dev Tools
+
+timers:  3:15 mins
+timer check: 7:54 mins
+
+shortcut commands:
+
+    node inspect                                                only in node.js cmd
+    node --inspect-brk (playground/21debugging.js)              with chrome dev tool
+    nodemon --inspect-brk (playground/21debugging.js)
+    clear 
+    nodemon --inspect-brk 21applec21.js read --title="to buy"
+    
+    ctl + c  ---> ^C                                            (to quit)
+    
+    for chrome browser
+    chrome://inspect/#devices
+    click on { play icon }
+    in colsole below type: note.body = "Something else"
+    
+    click on --> open dedicated devTools for Node
+    not ---> inspect
+
+Debugging via Chrome Dev Tools
+
+timer: 9:00
+
+type in node.js cmd:
+
+    node --inspect-brk playground/debugging.js
+    nodemon --inspect-brk playground/debugging.js
+    nodemon --inspect-brk 21applec21.js read --title="things to do"
+    
+search
+    
+    chrome://inspect/
+        in page menu, look for pages.
+            Inspect with Chrome Developer Tools
+    chrome://inspect/#devices   click on inspect. should get you to an active source.
+    person                                  (in dev tool, sourse)                           
+    chrome://version
+    nodemon --inspect-brk playground/debugging.js
+
+note:
+    the commands did work properly.
